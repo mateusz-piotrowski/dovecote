@@ -6,3 +6,4 @@
 
 - Phoenix template
 - CHANGELOG.md file
+- Timeline view
