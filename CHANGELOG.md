@@ -7,3 +7,5 @@
 - Phoenix template
 - CHANGELOG.md file
 - Timeline view
+- elixir_buildpack.config file
+- phoenix_static_buildpack.config file
