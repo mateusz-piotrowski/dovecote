@@ -2,10 +2,10 @@ import Config
 
 # Configure your database
 config :dovecote, Dovecote.Repo,
-  username: "postgres",
-  password: "postgres",
-  hostname: "localhost",
-  database: "dovecote_dev",
+  username: "1f62af93-988c-40c4-b1b9-b442aece29f4-user",
+  password: "pw-9b110b3b-820e-4081-92fa-3bed168f17ff",
+  hostname: "postgres-free-tier-v2020.gigalixir.com",
+  database: "1f62af93-988c-40c4-b1b9-b442aece29f4",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
