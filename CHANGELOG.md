@@ -1,5 +1,15 @@
 # The Changelog
 
+## [0.0.2] (November 16 2022)
+
+**Added :**
+
+- fly.dev platform data
+
+**Updated :**
+
+- database connection credentials
+
 ## [0.0.1] (November 13 2022)
 
 **Added :**
